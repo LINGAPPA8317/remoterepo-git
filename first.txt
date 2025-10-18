@@ -2,5 +2,6 @@ hello git . this is a irst file
 which is named by first 
 
 
-now im going to push thi first file into remote repo
-ok 
+now im going to push thi first file into remote 
+ 
+  this a new feature add to project 
